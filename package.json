@@ -1,0 +1,35 @@
+{
+    "name": "soft-yellow-light",
+    "displayName": "Soft Yellow Light",
+    "description": "Soft yellow colored Theme",
+    "version": "0.0.1",
+    "publisher": "SwaggyPinguin",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "vscode",
+        "soft",
+        "yellow",
+        "light",
+        "light theme",
+        "swaggypinguin"
+    ],
+    "repository": {
+        "type": "git",
+        "url": ""
+    }
+    "contributes": {
+        "themes": [
+            {
+                "label": "Soft Yellow Light",
+                "uiTheme": "vs",
+                "path": "./themes/soft-yellow-light.json"
+            }
+        ]
+    }
+}
