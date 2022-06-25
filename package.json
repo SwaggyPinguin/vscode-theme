@@ -21,8 +21,8 @@
     ],
     "repository": {
         "type": "git",
-        "url": ""
-    }
+        "url": "https://github.com/SwaggyPinguin/vscode-theme.git"
+    },
     "contributes": {
         "themes": [
             {
