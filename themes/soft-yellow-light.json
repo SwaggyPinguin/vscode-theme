@@ -336,7 +336,7 @@
       "name": "js variable readwrite",
       "scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
       "settings": {
-        "foreground": "#ff2663"
+        "foreground": "#494949"
       }
     },
     {
@@ -989,7 +989,7 @@
       "name": "illegal",
       "scope": "invalid.illegal",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#494949"
       }
     },
     {
@@ -1922,6 +1922,7 @@
     "editor.selectionBackground": "#ddf3f5",
     "editor.inactiveSelectionBackground": "#e5ebf1",
     "editorWhitespace.foreground": "#33333333",
+    fjkdsflskdajfklsadi
     "editor.selectionHighlightBackground": "#add6ff80",
     "editor.selectionHighlightBorder": "#495F77",
     "editor.findMatchBackground": "#a8ac94",
@@ -1962,7 +1963,7 @@
     "editorGutter.deletedBackground": "#ca4b51",
     "editorGutter.foldingControlForeground": "#494949",
     "editorCodeLens.foreground": "#999999",
-    "editorGroup.border": "#494949",
+    "editorGroup.border": "#49494976",
     "diffEditor.insertedTextBackground": "#9bb95533",
     "diffEditor.removedTextBackground": "#ff000033",
     "diffEditor.border": "#d7d7d7",
