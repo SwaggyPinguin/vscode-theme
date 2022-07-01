@@ -2,7 +2,7 @@
     "name": "soft-yellow-light",
     "displayName": "Soft Yellow Light",
     "description": "Soft yellow colored Theme",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "SwaggyPinguin",
     "engines": {
         "vscode": "^1.68.0"
