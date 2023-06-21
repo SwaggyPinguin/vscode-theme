@@ -1,1 +1,1 @@
-This is a soft yellow ligth theme for vscode
+This is a soft yellow light theme for vscode
